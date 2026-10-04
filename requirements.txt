@@ -6,4 +6,4 @@ pandas==0.20.1
 playsound==1.2.1
 pyaudio
 pyowm==2.6.1
-urllib3[secure]==1.21.1
+urllib3[secure]==2.8.0
